@@ -9,7 +9,7 @@ V1.3
 
 no new icons needed
 
-
+---
 
 V1.2
 
@@ -21,7 +21,7 @@ V1.2
 
 no new icons needed
 
-
+---
 
 V1.1
 
@@ -54,8 +54,7 @@ Reminders work:
 
 -Buffs bar shows buffs when they're active.
 
-
-
+---
 
 V1
 
