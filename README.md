@@ -1,7 +1,9 @@
 V1.3
 
 -Update of the trackers for PVE (Green and Blue Paddle for OLC / Ley breach for AH added)
+
 -the issue with "USER_FONT" modified into "FONT_DEFAULT"
+
 -no more warning in the debug pannel
 
 no new icons needed
