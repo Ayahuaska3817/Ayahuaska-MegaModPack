@@ -1,3 +1,39 @@
+V1.4
+
+
+NEW ICONS NEEDED
+
+-Update of the trackers for PVE (W8 infectious blight, pressure blast, steam prison)
+
+-Update of the trackers for PVE (w7 Lightning paddle (Qaddim))
+
+-Update of the trackers for PVE (big paddle ht)
+
+-Add Icon gliding disabled
+
+-Add Mount Buff (Ley-Line riding Disabled, Slipstream boost, aetherlocation)
+
+-Spe paragon ( ressource bar skill and traits)
+
+-Spe Troubadour (ressource bar, skill and traits)
+
+-Spe Evoker (Ressource bar, skill and traits)
+
+-SPe Antiquary (Ressource bar, skill and traits) + Ressource issue fix
+
+-Spe Ritualist (Ressource bar, skill and traits)
+
+-Spe Luminary (Ressource bar, skill and traits)
+
+-Spe Galeshot (Ressource bar, skill and traits)
+
+-spe Conduit (Ressource bar, skill and traits)
+
+-spe amalgam (Ressource bar, skill and traits)
+
+
+---
+
 V1.3
 
 
