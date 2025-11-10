@@ -1,3 +1,28 @@
+V1.5
+
+
+NEW ICONS NEEDED
+
+-Profession bar new icons for ranger
+
+-Profession bar new icons for mecha
+
+-Profession bar evoker modified
+
+-Hawkeye proc icon added for galeshot
+
+-Pet heal bar for ranger and mecha
+
+-Party member with boons and condi (currently disabled, i wait the ability to show name party member)
+
+-Target Bar (currently disabled, i wait the ability to show name target and boons condi)
+
+-class traits move to make room for the target bar
+
+-interface slightly shifted downwards
+
+---
+
 V1.4
 
 
