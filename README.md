@@ -1,3 +1,20 @@
+V1.6
+
+
+NEW ICONS NEEDED
+
+-Improved bars with pending, queue
+
+-Improved bars resource check for warrior
+
+-added few pve tracker blue and green paddle in olc nm
+
+-pve tracker malice in febe cm is now working correctly
+
+-better placement for the party panel
+
+---
+
 V1.5
 
 
