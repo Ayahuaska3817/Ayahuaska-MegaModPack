@@ -1,3 +1,14 @@
+1.6 FIX
+
+
+The interface has been slightly moved upwards and the placement of conditions has been slightly modified.
+
+The party panel was overlapping the spell bar and the "on the ground" bar.
+
+Problem solved.
+
+---
+
 V1.6
 
 
