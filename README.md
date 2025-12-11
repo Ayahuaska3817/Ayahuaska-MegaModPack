@@ -7,7 +7,7 @@ NEW ICONS NEEDED
 
 -Improved bars resource check for warrior
 
--added few pve tracker blue and green paddle in olc nm
+-added few pve tracker blue and green paddle in olc nm / Geyser Ura w8
 
 -pve tracker malice in febe cm is now working correctly
 
