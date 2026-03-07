@@ -1,3 +1,5 @@
+Easy download here : https://github.com/Ayahuaska3817/Ayahuaska-MegaModPack/releases/tag/Ayahuaska_Pack_and_Icons_Download
+
 1.6 FIX
 
 
