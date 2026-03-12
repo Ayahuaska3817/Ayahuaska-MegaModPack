@@ -1,4 +1,29 @@
-Easy download here : https://github.com/Ayahuaska3817/Ayahuaska-MegaModPack/releases/tag/Ayahuaska_Pack_and_Icons_Download
+Easy download here : https://github.com/Ayahuaska3817/Ayahuaska-MegaModPack/releases/tag/Ayahuaska_Pack_and_Icons_1.7_Download
+
+
+
+V1.7
+
+
+NEW ICONS NEEDED
+
+Revenant / Thief / War ressource check is rdy for the Bars.
+
+Range indicator is rdy for the bars.
+
+A lot of New PVE instanced elements has been added, enjoy for your raids, "Strikes" and Fractal.
+
+Some changes and add to the guardian skill/traits.
+
+Revenant conduit, on the prof bar issues has been fix.
+
+Thief Antiquary initiative issues has been fix.
+
+Party condi issues has been fixed.
+
+Ui, some element moved for the integration of the target bar. (still wip so it's disabled, but you can enable it in general if you want to check)
+
+---
 
 1.6 FIX
 
